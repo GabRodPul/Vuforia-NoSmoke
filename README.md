@@ -29,3 +29,8 @@ Haga click [aquí]() para leer el documento del Producto Mínimo Viable.
 
 ## Tarea02
 Esta tarea sirvió de continuación para la anterior. Aquí hicimos uso de Polycam para escanear un objeto del mundo real que una vez enfocado, enseñará modelos 3D alrededor de este objeto.
+
+# Demos
+
+- Tarea01: \ ![](public/videos/nosmoke-t01-reel-demo.mp4)
+- Tarea02: \ ![](public/videos/nosmoke-t02-reel-demo.mp4)
