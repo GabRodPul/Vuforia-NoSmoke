@@ -8,6 +8,7 @@ Realizado como tareas introductorias de RA en el módulo de Realidad virtual y r
 - [Info](#Info)
 - [Demos](#Demos)
 - [Vídeos técnicos](#Técnico)
+- [Cómo probar](#Probar)
 
 # Descargas
 - Descarga aquí [aquí](https://drive.google.com/file/d/1gcAAX6sEXIJsvDzkdWyCzsV3qCEAzcX_/view?usp=sharing). \ \
@@ -30,3 +31,12 @@ Esta tarea sirvió de continuación para la anterior. Aquí hicimos uso de Polyc
 
 - Tarea01: \ ![](public/videos/nosmoke-t01-reel-demo.mp4)
 - Tarea02: \ ![](public/videos/nosmoke-t02-reel-demo.mp4)
+
+# Probar
+Para probar el proyecto necesitas descargar el src, elegir una versión de Unity adecuada para Vuforia (nosotros utilizamos la 2022.3.11f), el SDK de Vuforia y una licencia de Vuforia.
+Pasos:
+- Importar SDK Vuforia
+- Aceptar Acuerdo de usuario
+- Introducir licencia
+- Importar el package del src
+-
