@@ -10,12 +10,12 @@ Realizado como tareas introductorias de RA en el módulo de Realidad virtual y r
 - [Vídeos técnicos](#Técnico)
 
 # Descargas
-- Elige la versión que mejor se ajuste a tu teléfono [aquí](https://drive.google.com/drive/folders/11UqycwKOSRM4n5MuZM5q2KgRkU-zklb0?usp=sharing). \
+- Elige la versión que mejor se ajuste a tu teléfono [aquí](https://drive.google.com/drive/folders/11UqycwKOSRM4n5MuZM5q2KgRkU-zklb0?usp=sharing). \ \
 También puedes utilizar estos QR para cada una:
-- ARM7:
+- ARM7: \
   ![ARM7 QR](public/images/nosmoke-qr-arm7.png)
 
-- ARM64:
+- ARM64: \
   ![ARM64 QR](public/images/nosmoke-qr-arm64.png)
 
 # Código fuente
