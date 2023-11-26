@@ -3,9 +3,11 @@ Proyecto AR con Unity + Vuforia para concienciar sobre el consumo de tabaco, con
 Realizado como tareas introductorias de RA en el módulo de Realidad virtual y realidad aumentada del curso de especialización de Videojuegos y Realidad Virtual.
 
 # Índice:
-- [Descargas]
-- [Código fuente](#Código fuente)
+- [Descargas](#Descargas)
+- [Código fuente](#Código)
 - [Info](#Info)
+- [Demos](#Demos)
+- [Vídeos técnicos](#Técnico)
 
 # Descargas
 - Elige la versión que mejor se ajuste a tu teléfono [aquí](https://drive.google.com/drive/folders/11UqycwKOSRM4n5MuZM5q2KgRkU-zklb0?usp=sharing).
