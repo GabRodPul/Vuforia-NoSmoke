@@ -37,10 +37,10 @@ Esta tarea sirvió de continuación para la anterior. Aquí hicimos uso de Polyc
 - Tarea02: \ ![](public/videos/nosmoke-t02-reel-demo.mp4)
 
 # Probar
-Para probar el proyecto necesitas descargar el src, elegir una versión de Unity adecuada para Vuforia (nosotros utilizamos la 2022.3.11f), el SDK de Vuforia y una licencia de Vuforia.
+Para probar el proyecto necesitas descargar el src, elegir una versión de Unity adecuada para Vuforia (nosotros utilizamos la 2022.3.11f), el SDK de Android para tu versión de Unity, el SDK de Vuforia y una licencia de Vuforia.
 Pasos:
 - Importar SDK Vuforia
 - Aceptar Acuerdo de usuario
 - Introducir licencia
 - Importar el package del src
--
+- Haz build para Android (nosotros usamos Oreo 8.0)
