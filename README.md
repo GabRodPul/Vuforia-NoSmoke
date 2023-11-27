@@ -24,9 +24,10 @@ Debido a las limitaciones de espacio de GitHub, el código fuente reside en Goog
 Puede descargarlo [aquí](https://drive.google.com/drive/folders/1DO2Vrsq8HbsHCYTXZ5imVwWCBahq1Oek?usp=sharing).
 
 # Info
+Haga click [aquí](https://github.com/GabRodPul/Vuforia-NoSmoke/blob/main/public/Producto%20Mínimo%20Viable%20-%20Zahira%20y%20Gabriel.pdf) para leer el documento del Producto Mínimo Viable.
+
 ## Tarea01
 Esta tarea sirvió de introducción al desarrollo de experiencias de Vuforia en Unity. La aplicación resultante de esta tarea funciona con 3 imágenes distinas, mostrando una disposición de modelos y eslogan única para cada una.
-Haga click [aquí]() para leer el documento del Producto Mínimo Viable.
 
 ## Tarea02
 Esta tarea sirvió de continuación para la anterior. Aquí hicimos uso de Polycam para escanear un objeto del mundo real que una vez enfocado, enseñará modelos 3D alrededor de este objeto.
