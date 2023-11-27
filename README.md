@@ -11,9 +11,13 @@ Realizado como tareas introductorias de RA en el módulo de Realidad virtual y r
 - [Cómo probar](#Probar)
 
 # Descargas
-- Descarga aquí [aquí](https://drive.google.com/file/d/1gcAAX6sEXIJsvDzkdWyCzsV3qCEAzcX_/view?usp=sharing). \ \
-También puedes utilizar este QR: \
+- Elige la versión que mejor se adapte a tu teléfono [aquí](https://drive.google.com/file/d/1gcAAX6sEXIJsvDzkdWyCzsV3qCEAzcX_/view?usp=sharing). \ \
+También puedes utilizar estos QR: \
+- ARM7: \
   ![QR](public/images/nosmoke-qr-arm7.png)
+- ARM64: \
+  ![QR](public/images/nosmoke-qr-arm64.png)
+
 
 # Código fuente
 Debido a las limitaciones de espacio de GitHub, el código fuente reside en Google Drive en forma de .unitypackage.
