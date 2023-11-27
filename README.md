@@ -11,7 +11,7 @@ Realizado como tareas introductorias de RA en el módulo de Realidad virtual y r
 - [Cómo probar](#Probar)
 
 # Descargas
-- Elige la versión que mejor se adapte a tu teléfono [aquí](https://drive.google.com/file/d/1gcAAX6sEXIJsvDzkdWyCzsV3qCEAzcX_/view?usp=sharing). \ \
+- Elige la versión que mejor se adapte a tu teléfono [aquí](https://drive.google.com/drive/folders/1DO2Vrsq8HbsHCYTXZ5imVwWCBahq1Oek?usp=drive_link). \ \
 También puedes utilizar estos QR: \
 - ARM7: \
   ![QR](public/images/nosmoke-qr-arm7.png)
